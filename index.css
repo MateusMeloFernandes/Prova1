@@ -1,0 +1,95 @@
+h1{
+    display: inline-block;
+    justify-content: space-evenly;
+}
+
+section.primeira{
+    background-color: #054105;
+    color: aliceblue;
+    text-align: center;
+}
+
+.imagem{
+    
+    text-align: center;
+    padding: 50px;
+}
+
+main{
+    overflow: hidden;
+    display: flex;
+}
+
+main img{
+    max-width: 300px;
+    max-width: 300px;
+    
+}
+
+
+
+.texto {
+    float: left;
+    width: 50%;
+    vertical-align: top;
+    margin-right: 150px;
+}
+
+div, .texto {
+    
+    padding: 10px;
+    margin-bottom: 15px;
+   
+}
+footer{
+    background-color: rgb(15, 63, 15);
+    padding: 25px;
+    margin-top: 30px;
+}
+
+#a, #b, #c, #d, #e, #f{
+    border-color: green;
+    background-color: green;
+    margin: 20px;
+    padding: 2px;
+    text-align: center;
+    color: aliceblue;
+    
+}
+.gato{
+    display: inline-block;
+    justify-content: space-evenly;
+    position: relative;
+    align-items: top;
+}
+.harmster{
+    align-items: center;
+    display:inline-block;
+    justify-content: space-evenly;
+    position: relative;
+    
+    
+}
+.cachorro{
+    align-items: bottom;
+    display: inline-block;
+    justify-content: space-evenly;
+    position: relative;
+}
+
+
+.titulo{
+    color: crimson;
+    font-size: 50px;
+    font-weight:bolder;
+}
+.texto{
+    padding:  50px;
+    
+}
+p.p{
+    font-size: 20px;
+}
+#f{
+    padding: ;
+}
